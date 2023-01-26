@@ -1,0 +1,15 @@
+C:\Users\Успешная Женщина\Desktop\c#\prikol\bin\Debug\net6.0\prikol.exe
+C:\Users\Успешная Женщина\Desktop\c#\prikol\bin\Debug\net6.0\prikol.deps.json
+C:\Users\Успешная Женщина\Desktop\c#\prikol\bin\Debug\net6.0\prikol.runtimeconfig.json
+C:\Users\Успешная Женщина\Desktop\c#\prikol\bin\Debug\net6.0\prikol.dll
+C:\Users\Успешная Женщина\Desktop\c#\prikol\bin\Debug\net6.0\prikol.pdb
+C:\Users\Успешная Женщина\Desktop\c#\prikol\obj\Debug\net6.0\prikol.csproj.AssemblyReference.cache
+C:\Users\Успешная Женщина\Desktop\c#\prikol\obj\Debug\net6.0\prikol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Успешная Женщина\Desktop\c#\prikol\obj\Debug\net6.0\prikol.AssemblyInfoInputs.cache
+C:\Users\Успешная Женщина\Desktop\c#\prikol\obj\Debug\net6.0\prikol.AssemblyInfo.cs
+C:\Users\Успешная Женщина\Desktop\c#\prikol\obj\Debug\net6.0\prikol.csproj.CoreCompileInputs.cache
+C:\Users\Успешная Женщина\Desktop\c#\prikol\obj\Debug\net6.0\prikol.dll
+C:\Users\Успешная Женщина\Desktop\c#\prikol\obj\Debug\net6.0\refint\prikol.dll
+C:\Users\Успешная Женщина\Desktop\c#\prikol\obj\Debug\net6.0\prikol.pdb
+C:\Users\Успешная Женщина\Desktop\c#\prikol\obj\Debug\net6.0\prikol.genruntimeconfig.cache
+C:\Users\Успешная Женщина\Desktop\c#\prikol\obj\Debug\net6.0\ref\prikol.dll
